@@ -1,4 +1,4 @@
-﻿package Exercise_1;
+package Exercise_1;
 
 public class Car {
     private String AutoMaker;
